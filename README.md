@@ -27,7 +27,7 @@ Projet-Triangle-de-Sierpinski/
 ## Installation
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/[votre-nom]/projet-algorithme-[votre_nom].git
+   git clone https://github.com/Tarikokc/Projet-Triangle-de-Sierpinski-.git
    ```
 2. Installez les dépendances nécessaires :
    ```
