@@ -1,11 +1,10 @@
-# Projet-Triangle-de-Sierpinski
+# Projet Triangle de Sierpinski
 
-### Description 
+## Description
+Ce projet implémente l'algorithme du Triangle de Sierpinski, une célèbre fractale auto-similaire. Le Triangle de Sierpinski est créé en divisant récursivement un triangle équilatéral en sous-triangles plus petits.
 
-Le triangle de Sierpiński est une fractale construite de la façon suivante : on part d'un triangle équilatéral auquel on ôte le triangle construit à partir du milieu des 3 côtés. on obtient alors 3 nouveaux triangles auxquels on réapplique le procédé.
-
-### Structure du Projet
-
+## Structure du Projet
+```
 Projet-Triangle-de-Sierpinski/
 ├── README.md
 ├── main.py
@@ -23,3 +22,27 @@ Projet-Triangle-de-Sierpinski/
 │   └── analyse_complexite.md
 └── ressources/
     └── [données, images, etc.]
+```
+
+## Installation
+1. Clonez ce dépôt :
+   ```
+   git clone https://github.com/[votre-nom]/projet-algorithme-[votre_nom].git
+   ```
+2. Installez les dépendances nécessaires :
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Utilisation
+Exécutez le script principal :
+```
+python main.py
+```
+
+## Fonctionnalités
+- Génération du Triangle de Sierpinski
+- Visualisation du triangle généré
+- Tests unitaires pour valider l'implémentation
+- Analyse de la complexité de l'algorithme
+
